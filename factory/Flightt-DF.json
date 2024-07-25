@@ -1,0 +1,9 @@
+{
+	"name": "Flightt-DF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d5aa43e-b785-427b-b5b8-3adf3a470f9d",
+		"tenantId": "35875568-f731-4913-a2c5-c8a30d7cf290"
+	}
+}
