@@ -1,0 +1,17 @@
+{
+	"name": "DS_inputs",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_adls_flightsa",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation"
+			}
+		},
+		"schema": []
+	}
+}
